@@ -11,4 +11,4 @@ public class TodolistApplication {
 	}
 
 }
-//metodo main e aquele metodo principal onde a gente consegue executar alguma coisa na aplicacao
+//metodo main e aquele metodo principal onde a gente consegue executar alguma coisa na aplicacao a
