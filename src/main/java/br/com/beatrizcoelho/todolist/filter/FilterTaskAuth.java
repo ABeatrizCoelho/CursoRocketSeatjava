@@ -15,7 +15,7 @@ import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
 
-@Component //toda classe que eu quero que o springer gerencie, preciso usar, e a classe mais generica de gerenciamento
+@Component //toda classe que eu qro que o springer gerencie, preciso usar, é a classe mais generica de gerenciamento
 public class FilterTaskAuth extends OncePerRequestFilter {
 
     @Autowired
